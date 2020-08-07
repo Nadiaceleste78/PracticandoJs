@@ -1,2 +1,1 @@
-# PracticandoJs
-# sumaNumerosTp
+# Suma
